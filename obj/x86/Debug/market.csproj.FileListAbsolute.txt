@@ -1,0 +1,63 @@
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\bin\Debug\market.exe.config
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\bin\Debug\market.exe
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\bin\Debug\market.pdb
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.Form1.resources
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.FrmKullanıcı.resources
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.FrmÜrünler.resources
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.mainMdiForm.resources
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.Properties.Resources.resources
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.csproj.GenerateResource.Cache
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.exe.licenses
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.exe
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.pdb
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.csprojResolveAssemblyReference.cache
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.FrmUyeListe.resources
+C:\Users\aakdogan\Documents\Visual Studio 2010\Projects\market\market\obj\x86\Debug\market.FrmMüsteriler.resources
+C:\Users\aakdogan\Desktop\market\market\bin\Debug\market.exe.config
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.exe
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.pdb
+C:\Users\aakdogan\Desktop\market\market\bin\Debug\market.exe
+C:\Users\aakdogan\Desktop\market\market\bin\Debug\market.pdb
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.Form1.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.FrmKullanıcı.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.FrmUyeListe.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.FrmÜrünler.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.mainMdiForm.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.Properties.Resources.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.csproj.GenerateResource.Cache
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.exe.licenses
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.FrmMusteriler.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.FrmMüsterilerListesi.resources
+C:\Users\aakdogan\Desktop\market\market\bin\Debug\yo\market.resources.dll
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.mainMdiForm.yo.resources
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\yo\market.resources.dll
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.csprojResolveAssemblyReference.cache
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.FrmKullListe.resources
+D:\market\market\bin\Debug\market.exe.config
+D:\market\market\obj\x86\Debug\market.exe
+D:\market\market\obj\x86\Debug\market.pdb
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.Xrapor.resources
+C:\Users\aakdogan\Desktop\market\market\bin\Debug\itextsharp.dll
+C:\Users\aakdogan\Desktop\market\market\obj\x86\Debug\market.FrmRapor.resources
+C:\Users\userr\Desktop\market\market\bin\Debug\market.exe.config
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.exe
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.pdb
+C:\Users\userr\Desktop\market\market\bin\Debug\market.exe
+C:\Users\userr\Desktop\market\market\bin\Debug\market.pdb
+C:\Users\userr\Desktop\market\market\bin\Debug\yo\market.resources.dll
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.csprojResolveAssemblyReference.cache
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.Form1.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.FrmKullanıcı.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.FrmKullListe.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.FrmMusteriler.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.FrmMüsterilerListesi.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.FrmRapor.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.FrmUyeListe.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.FrmÜrünler.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.mainMdiForm.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.Properties.Resources.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.Xrapor.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.mainMdiForm.yo.resources
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.csproj.GenerateResource.Cache
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\market.exe.licenses
+C:\Users\userr\Desktop\market\market\obj\x86\Debug\yo\market.resources.dll
